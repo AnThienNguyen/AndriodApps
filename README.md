@@ -21,40 +21,40 @@ This course will utilize industry-standard tools and techniques to create mobile
 * Illustrate steps involved in developing, testing, and commercializing mobile applications.
 
 #### Projects
-1. [Hello World/Contacts]("Contacts App")
+1. [Hello World/Contacts](contacts)
 
 - Installation of JDK
 - First Hello World App
 - Contacts App
 - Repo tutorials
 
-2. [Tip Calculator](Tip Calculator)
+2. [Tip Calculator]()
 
 - Tip Calculator App
 - Helps guest split the bill with included tip
 - Calculates up to 10 guest and 25% tip
 
-3. [Currency Converter](Currency Converter)
+3. [Currency Converter]()
 
 - Currency Converter App
 - Converts currency from dollars to euros, pesos, and canadian dollars
 - Toast notification usage
 - Only accepts from 1 - 100000
 
-4. [Music Playlist](My Music)
+4. [Music Playlist]()
 
 - Music Playlist App
 - Plays a set list of three songs
 - Usage of splash screen
 - Displays play buttons that disappear if a song is played and reappear when it is paused
 
-5. [Home Mortgage Interest Calculator](Mortgage Interest Calculator)
+5. [Home Mortgage Interest Calculator]()
 
 - Home Mortgage Interest App
 - Computes the total interest paid for the life of a home mortgage loan
 - Uses persistent data by saving values using the SharedPreferences object
 
-6. [News Reader](News Reader)
+6. [News Reader]()
 
 - News Reader App
 - Gets RSS feed from website and displays the list of articles
