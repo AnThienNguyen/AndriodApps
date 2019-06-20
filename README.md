@@ -21,7 +21,7 @@ This course will utilize industry-standard tools and techniques to create mobile
 * Illustrate steps involved in developing, testing, and commercializing mobile applications.
 
 #### Projects
-1. [Hello World/Contacts](Contacts App)
+1. [Hello World/Contacts]("Contacts App")
 
 - Installation of JDK
 - First Hello World App
