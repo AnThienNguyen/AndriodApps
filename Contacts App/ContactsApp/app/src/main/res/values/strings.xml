@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="txtTitle">Contacts</string>
+    <string name="description">Image</string>
+    <string name="btnContact">Nguyen, An</string>
+    <string name="txtInfo">An Nguyen</string>
+    <string name="txtSchool">Florida State University</string>
+    <string name="txtEmail">atn13@my.fsu.edu</string>
+    <string name="txtPhone">(561) 755-0782</string>
+    <string name="button2">Dorito, Danny</string>
+    <string name="txtE2">DannyD@rito.com</string>
+    <string name="txtP2">(800) 829-3941</string>
+    <string name="button3">King, Pho</string>
+    <string name="txtIn2">Danny Dorito</string>
+    <string name="txtIn3">Pho King</string>
+    <string name="txtE3">King@pho.com</string>
+    <string name="txtP3">(850) 320-2856</string>
+</resources>
