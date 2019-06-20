@@ -1,4 +1,4 @@
-﻿# Contacts
+﻿# Hello World/Contacts
 
 ## An Nguyen
 
@@ -25,9 +25,9 @@
 
 *Screenshot of Contacts App*:
 
-![Contacts App] (images/3.png)
+![Contacts App](images/3.png)
 
 *Screenshot of when button clicked*:
 
-![Contacts App2] (images/4.png)
+![Contacts App2](images/4.png)
 
