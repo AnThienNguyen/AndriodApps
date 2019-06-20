@@ -28,7 +28,7 @@ This course will utilize industry-standard tools and techniques to create mobile
 - Contacts App
 - Repo tutorials
 
-2. [Tip Calculator]()
+2. [Tip Calculator](tip_calculator)
 
 - Tip Calculator App
 - Helps guest split the bill with included tip
