@@ -34,7 +34,7 @@ This course will utilize industry-standard tools and techniques to create mobile
 - Helps guest split the bill with included tip
 - Calculates up to 10 guest and 25% tip
 
-3. [Currency Converter]()
+3. [Currency Converter](currency_converter)
 
 - Currency Converter App
 - Converts currency from dollars to euros, pesos, and canadian dollars

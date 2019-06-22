@@ -9,7 +9,7 @@
 3. Must add background color(s) or theme
 4. Create and display launcher icon image
 
-#### Assignment Screenshots:
+#### Screenshots:
 
 *Screenshot of Unpopulated*:
 
