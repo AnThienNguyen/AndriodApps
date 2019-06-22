@@ -24,4 +24,4 @@ and horizontally aligned)
 
 *Screenshot of running application's converted currency user interface*:
 
-![Convert Currency] (images/3.png)
+![Convert Currency](images/3.png)
