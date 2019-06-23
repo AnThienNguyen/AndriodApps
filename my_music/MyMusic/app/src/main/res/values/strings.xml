@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="txtSplash">An\'s Tunes</string>
+    <string name="bruno">Bruno Mars Image</string>
+    <string name="issues">Issues Image</string>
+    <string name="panic">Panic at the Disco</string>
+    <string name="btnBruno">Play Bruno Mars</string>
+    <string name="btnIssues">Play Issues</string>
+    <string name="btnPanic">Play Panic at the Disco</string>
+</resources>

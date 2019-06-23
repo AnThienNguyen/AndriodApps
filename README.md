@@ -41,7 +41,7 @@ This course will utilize industry-standard tools and techniques to create mobile
 - Toast notification usage
 - Only accepts from 1 - 100000
 
-4. [Music Playlist]()
+4. [Music Playlist](my_music)
 
 - Music Playlist App
 - Plays a set list of three songs

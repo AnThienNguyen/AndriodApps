@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.annguyen.mymusic.MainActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ibruno"
+        android:id="@+id/imgBruno"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/btnPanic"
+        android:layout_alignStart="@+id/btnPanic"
+        android:contentDescription="@string/bruno" />
+
+    <Button
+        android:text="@string/btnBruno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBruno"
+        android:textSize="22sp"
+        android:layout_below="@+id/imgBruno"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="@string/btnPanic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPanic"
+        android:textSize="22sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ipanic"
+        android:id="@+id/imgPanic"
+        android:contentDescription="@string/panic"
+        android:layout_above="@+id/btnPanic"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="@string/btnIssues"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnIssues"
+        android:textSize="22sp"
+        android:layout_below="@+id/imgIssues"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/iissues"
+        android:id="@+id/imgIssues"
+        android:contentDescription="@string/issues"
+        android:layout_below="@+id/btnBruno"
+        android:layout_alignLeft="@+id/imgPanic"
+        android:layout_alignStart="@+id/imgPanic"
+        android:layout_marginTop="75dp" />
+
+</RelativeLayout>
