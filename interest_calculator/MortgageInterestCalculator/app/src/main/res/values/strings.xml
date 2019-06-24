@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mortgage Interest Calculator</string>
+    <string name="hint1">Monthly Payment</string>
+    <string name="hint2">Years (10, 20, or 30)</string>
+    <string name="hint3">Principal</string>
+    <string name="btnInterest">Compute Interest</string>
+    <string name="imgDescription">Number of Years</string>
+    <string name="txtTitle">Home Mortgage Interest</string>
+    <string name="txtPayment">Total Interest Paid</string>
+    <string name="txtSplash">Mortgage Calculator</string>
+</resources>
