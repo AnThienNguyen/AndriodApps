@@ -48,7 +48,7 @@ This course will utilize industry-standard tools and techniques to create mobile
 - Usage of splash screen
 - Displays play buttons that disappear if a song is played and reappear when it is paused
 
-5. [Home Mortgage Interest Calculator]()
+5. [Home Mortgage Interest Calculator](interest_calculator)
 
 - Home Mortgage Interest App
 - Computes the total interest paid for the life of a home mortgage loan
