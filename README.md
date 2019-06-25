@@ -54,7 +54,7 @@ This course will utilize industry-standard tools and techniques to create mobile
 - Computes the total interest paid for the life of a home mortgage loan
 - Uses persistent data by saving values using the SharedPreferences object
 
-6. [News Reader]()
+6. [News Reader](news_reader)
 
 - News Reader App
 - Gets RSS feed from website and displays the list of articles
