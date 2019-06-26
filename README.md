@@ -1,4 +1,4 @@
-# Advanced Mobile Application Development
+# Advanced Mobile Application Development (Android)
 
 ## An Nguyen
 
